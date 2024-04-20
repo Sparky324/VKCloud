@@ -1,2 +1,1 @@
-print("Слава лох")
-print('ура')
+print("Hello, World")
